@@ -8,24 +8,21 @@ Official curriculum for the General Data Analysis course in Zindua's Data Scienc
 - **Basic Queries:** UPDATE and DELETE, Basic Queries.
 - **Intermediate SQL Queries:** Company Database Intro, Creating Company Database, More Basic Queries
 - **SQL Advanced Queries:** Functions, Wildcards, Union, Joins
-- **Project:** [Company Database Project – Intermediate SQL Queries](https://github.com/bonareri/Sample-SQL-Projects)
-
+- **Project:** 
 ---
 
 ### Week 2: Advanced SQL & ERD  
 - **Advanced SQL:** Nested Queries, Triggers, On Delete  
 - **Entity Relationship Diagrams:** ER Diagrams Intro, ER Diagram Design, ER Diagram Mapping 
 - **Database Normalization Concepts** Normal Forms in Database Design (1NF, 2NF, 3NF)    
-- **Project:** [Zindua Student DB ERD & Queries](https://github.com/bonareri/Sample-SQL-Projects)
----
+- **Project:** 
 
 ### Week 3: Excel Essentials
 - **Excel Basics:** Navigation, Filters, Sorting, Shortcuts  
 - **Intermediate Excel:** Moving and Copying Columns, Freeze Panes, Intro to Excel Functions and Formulas, Conditionals and Logical Operators, Statistical Functions, COUNT A and COUNT in Excel, Sumproduct Function, Absolute References  
 - **Advanced Excel:** Look-Up Functions, INDEX-MATCH, Text Functions, Excel Power Query, Common Errors, Pivot Tables, Sorting, Filtering and Grouping
 - **Excel Data Visualization:** Using Slicers, Calculated Values and Fields, Pivot Charts, Visualization Best Practice, Excel Dashboards
-- **Project:** [Excel Recruitment Dashboard](https://github.com/bonareri/Excel-Dashboard-Projects)
-
+- **Project:**
 ---
 
 ### Week 4: Tableau  
@@ -34,14 +31,13 @@ Official curriculum for the General Data Analysis course in Zindua's Data Scienc
 - **Data Visualizations:** Dimensions & Measures, Understanding Pills, Show Me Tab, Bar, Line, Lollipop and Area chart
 - **Advanced Visualizations:** Maps, Scatter plots, histogram, Bubble chart, Donut chart, Tree map, KPI chart
 - **Data Storytelling with Tableau:** Tooltips and Viz in Tooltips, Dashboard and Layout Pane,  
-- **Project:** [Tableau Sales Performance Dashboard](https://github.com/bonareri/Tableau-Dashboards)
-
+- **Project:**
 ---
 
 ### Week 6: Final Capstone Project  
 - **Capstone Project:** Design and Present a Full Data Analysis Pipeline  
 - Includes SQL Queries, Excel Cleaning/Visualization, and Tableau Dashboard  
-- **Project:** [Marketing Campaign Analysis Capstone](https://github.com/bonareri/Marketing-Campaign-Analysis)
+- **Project:** 
 
 ---
 
