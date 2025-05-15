@@ -14,8 +14,7 @@ This course introduces learners to essential tools for data analysis—SQL, Exce
 - **Basic SQL Queries:** `SELECT`, `UPDATE`, `DELETE`, filtering results  
 - **Intermediate Queries:** Creating a company database, applying queries to real-world scenarios  
 - **Advanced SQL Concepts:** Functions, wildcards, `UNION`, and `JOIN` operations
-- **Project:** - [SQL Basic Queries](https://classroom.github.com/a/2b5f98g5)
-- **Project:** - [SQL Week One Project](https://classroom.github.com/a/cwhqTgHW)
+- **Project:** - [SQL Week One Project](https://classroom.github.com/a/2b5f98g5)
 
 ---
 
