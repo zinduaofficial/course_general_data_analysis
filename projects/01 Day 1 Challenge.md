@@ -9,7 +9,7 @@ You can find the SQL queries related project description and starter code on Git
 
 For Day 1, you are expected to write, in your markdown, at least 5 differences between SQL and No-SQL Databases. 
 
-# SQL Table Constraints and Database Creation
+## SQL Table Constraints and Database Creation
 
 You have learnt about SQL Table Constraints. You are going to create 4 tables to store your data. 
 
