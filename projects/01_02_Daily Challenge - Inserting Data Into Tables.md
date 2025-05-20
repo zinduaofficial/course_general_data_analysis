@@ -1,4 +1,4 @@
-# Day 3 Challenge: Insert Data into Tables
+# Day 2 Challenge: Insert Data into Tables
 
 In this challenge, you will add data to the tables you created in previous day's Challenge.  
 
